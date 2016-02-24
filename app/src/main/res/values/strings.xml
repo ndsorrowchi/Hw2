@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hw2</string>
+    <string name="title_activity_maps">Location of Post</string>
+    <string name="BarTitle1">Post List</string>
+</resources>
