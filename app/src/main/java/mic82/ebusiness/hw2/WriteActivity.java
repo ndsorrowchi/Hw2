@@ -45,6 +45,7 @@ public class WriteActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent();
                 setResult(RESULT_CANCELED, intent);
+                finish();
             }
         });
 
